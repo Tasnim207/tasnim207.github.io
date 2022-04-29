@@ -452,14 +452,10 @@ position: fixed;
   padding-top: 50px;
 }
 body {
-
-
   font-family: Arial;
   font-size: 17px;
   padding: 8px;
 }
-
-
 
 
 
@@ -475,7 +471,7 @@ label {
 }
 
 .btn2 {
-  width: 200px;
+  width: 150px;
   display: inline-block;
   text-align: center;
   background: #414955;
@@ -491,7 +487,7 @@ label {
   background-color: #000000;
 }
 .cancelbtn2 {
-  width:200px; 
+  width:150px;
   display: inline-block;
   text-align: center;
   background: #694f55;
@@ -500,7 +496,6 @@ label {
   color: white;
   letter-spacing: 2px;
   cursor: pointer;
- 
   
 }
 
@@ -563,4 +558,3 @@ span.price {
   height: 800px;
   border-radius: 0 2px 2px 0;
 }
-h2{colore:white;}
