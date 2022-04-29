@@ -452,6 +452,8 @@ position: fixed;
   padding-top: 50px;
 }
 body {
+
+
   font-family: Arial;
   font-size: 17px;
   padding: 8px;
@@ -471,7 +473,7 @@ label {
 }
 
 .btn2 {
-  width: 150px;
+  width: 200px;
   display: inline-block;
   text-align: center;
   background: #414955;
@@ -481,13 +483,14 @@ label {
   letter-spacing: 2px;
   cursor: pointer;
   right: 0;
+  
 }
 
 .btn2:hover {
   background-color: #000000;
 }
 .cancelbtn2 {
-  width:150px;
+  width:200px;
   display: inline-block;
   text-align: center;
   background: #694f55;
@@ -531,30 +534,30 @@ span.price {
   backdrop-filter: blur(10px);
   border-radius: 25px;
   background-color:rgba(0, 0, 0, 0.499);
-  width:75%;
+  width:90%;
   height:800px;
   position: relative;
   margin: 5% auto;
  
 }
+.form{
+  padding: 20px;
+}
 .left2 {
   display: inline-block;
   position: absolute;
-  top: 0;
-  left: 0;
   box-sizing: border-box;
-  padding: 100px;
   width: 50%;
   height: 800px;
 }
 .right2 {
   display: inline-block;
-  position: absolute;
-  top: 0;
-  right: 0;
-  box-sizing: border-box;
-  padding:100px;
-  width: 50%;
-  height: 800px;
-  border-radius: 0 2px 2px 0;
+    position: absolute;
+    box-sizing: border-box;
+
+    width: 50%;
+    height: 800px;
+    border-radius: 0 2px 2px 0;
+    margin-left: 50% !important;
+
 }
