@@ -475,7 +475,7 @@ label {
 }
 
 .btn2 {
-  width: 300px;
+  width: 200px;
    height:50px;
   display: inline-block;
   text-align: center;
@@ -492,7 +492,7 @@ label {
   background-color: #000000;
 }
 .cancelbtn2 {
-  width:300px;
+  width:200px;
    height:50px; 
   display: inline-block;
   text-align: center;
@@ -502,7 +502,7 @@ label {
   color: white;
   letter-spacing: 2px;
   cursor: pointer;
-   margin:2px 0 0 0 ;
+ 
   
 }
 
